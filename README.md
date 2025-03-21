@@ -5,7 +5,7 @@ To check out Full-Stack Voting-Dapp [Click Here](https://polling-dapp.vercel.app
 Build using Ethereum, React.js, Tailwind CSS, The Graph, and ethers.js.
 
 
-[<img width="1440" alt="Screenshot 2023-11-01 at 11 20 50 PM" src="https://github.com/gkirat/Voting-Dapp/assets/103166972/bccd890a-c669-49e6-8db0-8dacd8eaecfc">](https://polling-dapp.vercel.app)
+[<img width="1440" alt="Screenshot 2023-11-01 at 11 20 50 PM" src="https://github.com/PihuJain/Project-Exhibition-2025.git">](https://polling-dapp.vercel.app)
 
 
 ## Table of Contents
@@ -142,6 +142,3 @@ Contributions are welcome! If you'd like to contribute to this project, please o
 ## Credits
 The design was insipred by [iykee Okonkwo](https://www.linkedin.com/in/iykeeokonkwo/) you could see his design on [Here](https://dribbble.com/shots/17547198-Voting-DAPP-Poll-History)
 
-
-### License 
-This project is licensed under the terms of the [License](https://github.com/gkirat/Voting-Dapp/blob/master/LICENSE).
