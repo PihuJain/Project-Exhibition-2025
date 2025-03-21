@@ -94,7 +94,7 @@ To set up and run the project, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/gkirat/Voting-Dapp.git
+   git clone https://github.com/PihuJain/Project-Exhibition-2025.git
 
 2. Change into the project directory:
    ```bash
